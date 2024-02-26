@@ -1,5 +1,6 @@
-# About-ME
-Hello, I'm Yashvardhan Singh, and I'm on a mission to redefine the boundaries of gaming and programming. With a passion for creating immersive experiences and a commitment to technical excellence, I've dedicated myself to crafting digital worlds that captivate and inspire.
+<h1 align="center">Hi 👋, I'm Yashvardhan :)</h1>
+<h3 align="center">A Game Developer.</h3>
+I'm on a mission to redefine the boundaries of gaming and programming. With a passion for creating immersive experiences and a commitment to technical excellence, I've dedicated myself to crafting digital worlds that captivate and inspire.
 📫 Reach me out!
 
 [![GitHub](https://img.shields.io/badge/GitHub-MyProfile-blue?style=flat-square&logo=github)](https://github.com/Yashvardhan4197)
