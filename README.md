@@ -6,7 +6,7 @@ I'm on a mission to redefine the boundaries of gaming and programming. With a pa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-MyProfile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yashvardhan-singh-7635621a2)
 [![Email](https://img.shields.io/badge/Email-ContactMe-green?style=flat-square&logo=gmail)](mailto:yashvardhan4197@gmail.com)
 
-- 👨‍🎓 I’m currently studying at Chandigarh University as a CSE Undergrad with Honours in Cloud Computing.
+- 👨‍🎓 Completed my bachelor's in Computer Science Engineering (Honours in Cloud Computing) from Chandigarh University.
 - 🤔 I’m looking for more gameDev projects to work on as a team and learn new things on the way.
 - 📧 How to reach me: yashvardhan4197@gmail.com
 - ⚡ Fun fact: I love making games and motion design.
